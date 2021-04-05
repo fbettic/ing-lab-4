@@ -10,10 +10,10 @@ Imagenes Ejercicio 4:
 ![](img/pullRequest5.png)
 
 Imagenes Ejercicio 5:
-![](img/conflicto 1.png)
-![](img/conflicto 2.png)
-![](img/conflicto 3.png)
-![](img/conflicto 4.png)
+![](img/conflicto1.png)
+![](img/conflicto2.png)
+![](img/conflicto3.png)
+![](img/conflicto4.png)
 
 Imagenes Ejercicio 6:
 ![](img/Ejercicio6.png)
